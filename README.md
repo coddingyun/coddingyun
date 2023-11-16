@@ -1,6 +1,14 @@
-<p align="center">
+<div align="center">
+  <h1 style="fontSize=30px">Skills</h2>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+  <br/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
+  <h1 style="fontSize=30px">Github Status</h2>
   <a href="https://github.com/coddingyun"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=coddingyun&show_icons=true&hide=stars&theme=buefy"/></a>
-</p>
+</div>
 
 <!--
 **coddingyun/coddingyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
